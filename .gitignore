@@ -1,0 +1,24 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# IDE
+.vscode/
+
+# Large medical PDF
+data/*.pdf
+
+# Generated vector database
+vectorstore/
+
+# Other files
+.DS_Store
